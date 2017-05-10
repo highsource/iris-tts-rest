@@ -1024,8 +1024,11 @@ definitions:
         items:
           $ref: '#/definitions/tripLabel'
   tripType:
-    description : K.A.
+    description: Trip type
     enum:
-      - a
-      - b
-      - c
+      - p
+      - e
+      - z
+      - s
+      - h
+      - n
